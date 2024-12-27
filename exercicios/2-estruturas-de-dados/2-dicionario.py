@@ -15,5 +15,5 @@ print(valores)
 chaves = list(pessoa.keys ())
 print(chaves)
 # Insira um novo par chave-valor no dicionário
-pessoa ['altura']: 1.74
+pessoa ['altura'] = 1.74
 print (pessoa)
