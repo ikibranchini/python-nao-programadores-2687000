@@ -5,7 +5,7 @@ ano_formatura = 2010
 idade = ano_formatura - ano_nascimento
 
 # Escreva expressões comparativas usando os operadores relacionais >, <= e ==. Imprima na tela as respostas
-print(ano_formatura > ano_nascimento )
+print(ano_formatura > ano_nascimento)
 print(ano_formatura <= ano_nascimento)
 print(ano_formatura == ano_nascimento)
 
